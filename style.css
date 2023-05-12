@@ -89,13 +89,3 @@ body, html {
     width: 100%;
     color: #AE1100;
     }
-    
-    .input-group {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    }
-    .input-group label {
-    margin: 0;
-    flex: 1;
-    }
